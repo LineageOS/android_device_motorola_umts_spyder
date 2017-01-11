@@ -7,7 +7,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 #
 # Setup device specific product configuration.
 #
-PRODUCT_NAME := cm_umts_spyder
+PRODUCT_NAME := lineage_umts_spyder
 PRODUCT_BRAND := RTGB
 PRODUCT_DEVICE := umts_spyder
 PRODUCT_MODEL := XT910
